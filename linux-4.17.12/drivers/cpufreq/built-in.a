@@ -1,0 +1,32 @@
+!<thin>
+//                                              284       `
+cpufreq.o/
+freq_table.o/
+cpufreq_stats.o/
+cpufreq_performance.o/
+cpufreq_powersave.o/
+cpufreq_userspace.o/
+cpufreq_ondemand.o/
+cpufreq_conservative.o/
+cpufreq_governor.o/
+cpufreq_governor_attr_set.o/
+acpi-cpufreq.o/
+powernow-k8.o/
+pcc-cpufreq.o/
+speedstep-centrino.o/
+intel_pstate.o/
+/0              0           0     0     644     696648    `
+/11             0           0     0     644     159912    `
+/25             0           0     0     644     191368    `
+/42             0           0     0     644     118808    `
+/65             0           0     0     644     118376    `
+/86             0           0     0     644     135120    `
+/107            0           0     0     644     260744    `
+/127            0           0     0     644     190200    `
+/151            0           0     0     644     233584    `
+/171            0           0     0     644     167464    `
+/200            0           0     0     644     358512    `
+/216            0           0     0     644     412168    `
+/231            0           0     0     644     281712    `
+/246            0           0     0     644     170584    `
+/268            0           0     0     644     566672    `

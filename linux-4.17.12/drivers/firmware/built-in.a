@@ -1,0 +1,44 @@
+!<thin>
+//                                              320       `
+dmi_scan.o/
+edd.o/
+dmi-id.o/
+iscsi_ibft_find.o/
+memmap.o/
+efi/efi-bgrt.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/tpm.o/
+efi/capsule.o/
+efi/memmap.o/
+efi/efivars.o/
+efi/esrt.o/
+efi/cper.o/
+efi/runtime-map.o/
+efi/runtime-wrappers.o/
+efi/libstub/lib-ksyms.o/
+efi/dev-path-parser.o/
+efi/apple-properties.o/
+/0              0           0     0     644     334128    `
+/12             0           0     0     644     319208    `
+/19             0           0     0     644     179416    `
+/29             0           0     0     644     290360    `
+/48             0           0     0     644     210968    `
+/58             0           0     0     644     228056    `
+/74             0           0     0     644     328600    `
+/85             0           0     0     644     351520    `
+/97             0           0     0     644     209952    `
+/111            0           0     0     644     231016    `
+/126            0           0     0     644     210880    `
+/137            0           0     0     644     240856    `
+/152            0           0     0     644     231936    `
+/166            0           0     0     644     300760    `
+/181            0           0     0     644     268024    `
+/193            0           0     0     644     305696    `
+/205            0           0     0     644     241424    `
+/224            0           0     0     644     349944    `
+/248            0           0     0     644     656       `
+/273            0           0     0     644     260872    `
+/296            0           0     0     644     229896    `

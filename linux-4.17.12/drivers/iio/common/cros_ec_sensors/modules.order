@@ -1,0 +1,2 @@
+kernel/drivers/iio/common/cros_ec_sensors/cros_ec_sensors_core.ko
+kernel/drivers/iio/common/cros_ec_sensors/cros_ec_sensors.ko

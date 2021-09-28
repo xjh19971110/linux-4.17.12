@@ -1,0 +1,2 @@
+kernel/kernel/rcu/rcuperf.ko
+kernel/kernel/torture.ko

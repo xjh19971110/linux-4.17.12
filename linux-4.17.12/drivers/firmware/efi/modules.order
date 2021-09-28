@@ -1,0 +1,4 @@
+kernel/drivers/firmware/efi/efi-pstore.ko
+kernel/drivers/firmware/efi/efibc.ko
+kernel/drivers/firmware/efi/test/efi_test.ko
+kernel/drivers/firmware/efi/capsule-loader.ko

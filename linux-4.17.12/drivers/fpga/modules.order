@@ -1,0 +1,8 @@
+kernel/drivers/fpga/fpga-mgr.ko
+kernel/drivers/fpga/altera-cvp.ko
+kernel/drivers/fpga/altera-ps-spi.ko
+kernel/drivers/fpga/xilinx-spi.ko
+kernel/drivers/fpga/altera-pr-ip-core.ko
+kernel/drivers/fpga/fpga-bridge.ko
+kernel/drivers/fpga/xilinx-pr-decoupler.ko
+kernel/drivers/fpga/fpga-region.ko

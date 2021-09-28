@@ -1,0 +1,2 @@
+kernel/net/decnet/netfilter/dn_rtmsg.ko
+kernel/net/decnet/decnet.ko

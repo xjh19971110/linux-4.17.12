@@ -1,0 +1,1 @@
+cmd_sound/soc/intel/common/snd-soc-acpi-intel-match.o := ld -m elf_x86_64 -z max-page-size=0x200000   -r -o sound/soc/intel/common/snd-soc-acpi-intel-match.o sound/soc/intel/common/soc-acpi-intel-byt-match.o sound/soc/intel/common/soc-acpi-intel-cht-match.o sound/soc/intel/common/soc-acpi-intel-hsw-bdw-match.o 

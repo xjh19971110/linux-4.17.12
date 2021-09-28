@@ -1,0 +1,2 @@
+kernel/drivers/base/regmap/regmap-spmi.ko
+kernel/drivers/base/regmap/regmap-w1.ko

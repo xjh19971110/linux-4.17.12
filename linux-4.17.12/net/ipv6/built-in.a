@@ -1,0 +1,110 @@
+!<thin>
+//                                              752       `
+af_inet6.o/
+anycast.o/
+ip6_output.o/
+ip6_input.o/
+addrconf.o/
+addrlabel.o/
+route.o/
+ip6_fib.o/
+ipv6_sockglue.o/
+ndisc.o/
+udp.o/
+udplite.o/
+raw.o/
+icmp.o/
+mcast.o/
+reassembly.o/
+tcp_ipv6.o/
+ping.o/
+exthdrs.o/
+datagram.o/
+ip6_flowlabel.o/
+inet6_connection_sock.o/
+udp_offload.o/
+seg6.o/
+fib6_notifier.o/
+sysctl_net_ipv6.o/
+ip6mr.o/
+xfrm6_policy.o/
+xfrm6_state.o/
+xfrm6_input.o/
+xfrm6_output.o/
+xfrm6_protocol.o/
+netfilter.o/
+fib6_rules.o/
+proc.o/
+syncookies.o/
+calipso.o/
+seg6_iptunnel.o/
+seg6_local.o/
+seg6_hmac.o/
+xfrm6_mode_transport.o/
+xfrm6_mode_tunnel.o/
+xfrm6_mode_beet.o/
+addrconf_core.o/
+exthdrs_core.o/
+ip6_checksum.o/
+ip6_icmp.o/
+output_core.o/
+protocol.o/
+ip6_offload.o/
+tcpv6_offload.o/
+exthdrs_offload.o/
+inet6_hashtables.o/
+mcast_snoop.o/
+/0              0           0     0     644     580352    `
+/12             0           0     0     644     503760    `
+/23             0           0     0     644     765480    `
+/37             0           0     0     644     550800    `
+/50             0           0     0     644     1276048   `
+/62             0           0     0     644     511608    `
+/75             0           0     0     644     1261648   `
+/84             0           0     0     644     712776    `
+/95             0           0     0     644     583024    `
+/112            0           0     0     644     721248    `
+/121            0           0     0     644     829040    `
+/128            0           0     0     644     461352    `
+/139            0           0     0     644     697912    `
+/146           /0           0     0     644     643824    `
+/154            0           0     0     644     783024    `
+/163            0           0     0     644     583256    `
+/177            0           0     0     644     848768    `
+/189           /0           0     0     644     489576    `
+/197            0           0     0     644     643136    `
+/208            0           0     0     644     549144    `
+/220            0           0     0     644     572240    `
+/237            0           0     0     644     469952    `
+/262            0           0     0     644     466088    `
+/277           /0           0     0     644     490624    `
+/285            0           0     0     644     421496    `
+/302            0           0     0     644     445944    `
+/321            0           0     0     644     873816    `
+/330            0           0     0     644     528944    `
+/346            0           0     0     644     483936    `
+/361            0           0     0     644     497944    `
+/376            0           0     0     644     501792    `
+/392            0           0     0     644     501912    `
+/410            0           0     0     644     507208    `
+/423            0           0     0     644     491744    `
+/437           /0           0     0     644     479792    `
+/445            0           0     0     644     506488    `
+/459            0           0     0     644     640888    `
+/470            0           0     0     644     523688    `
+/487            0           0     0     644     514376    `
+/501            0           0     0     644     590584    `
+/514            0           0     0     644     480168    `
+/538            0           0     0     644     497192    `
+/559            0           0     0     644     481888    `
+/578            0           0     0     644     472832    `
+/595            0           0     0     644     461216    `
+/611            0           0     0     644     453936    `
+/627            0           0     0     644     440176    `
+/639            0           0     0     644     475864    `
+/654            0           0     0     644     444512    `
+/666            0           0     0     644     491224    `
+/681            0           0     0     644     463216    `
+/698            0           0     0     644     427240    `
+/717            0           0     0     644     531320    `
+/737            0           0     0     644     454064    `
